@@ -1,0 +1,16 @@
+[package]
+name = "rtf-to-html"
+version = "0.1.0"
+edition = "2021"
+authors = ["TwelveTake Studios <contact@twelvetake.com>"]
+description = "Convert RTF documents to HTML with semantic markup"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/TwelveTake-Studios/rtf-to-html"
+documentation = "https://docs.rs/rtf-to-html"
+readme = "README.md"
+keywords = ["rtf", "html", "converter", "parser", "document"]
+categories = ["parser-implementations", "text-processing"]
+
+[dependencies]
+rtf-parser-tt = "0.5"
+thiserror = "2"
