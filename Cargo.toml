@@ -1,6 +1,6 @@
 [package]
 name = "rtf-to-html"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["TwelveTake Studios <contact@twelvetake.com>"]
 description = "Convert RTF documents to HTML with semantic markup"
