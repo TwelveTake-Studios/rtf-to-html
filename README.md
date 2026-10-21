@@ -10,7 +10,6 @@ Convert RTF documents to clean, semantic HTML.
 
 If you find this crate useful, consider supporting development:
 
-- [GitHub Sponsors](https://github.com/sponsors/twelvetake)
 - [Ko-fi](https://ko-fi.com/twelvetake)
 
 ## Features
